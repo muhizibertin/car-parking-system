@@ -1,0 +1,38 @@
+body{
+	background-color: black;
+}
+
+form{
+	background-color: khaki;
+	margin-top: 200px;
+	margin-right: 500px;
+	margin-bottom: 150px;
+	margin-left: 350px;
+	border-radius: 40px;
+}
+h1{
+	color: khaki;
+}
+.a{
+
+	margin-top: 30px;
+	margin-right: 700px;
+	background-color: lightblue;
+	border-radius: 10px;
+	color: black;
+}
+.more{
+	margin-top: 30px;
+	margin-right: 700px;
+	background-color: black;
+	border-radius: 10px;
+	color: khaki;
+}
+.us{
+	background-color: black;
+	color: lightblue;
+	margin-top: 50px;
+	border-radius: 40px;
+	margin-right: 300px;
+	margin-left: 300px;
+}
